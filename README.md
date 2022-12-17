@@ -1,1 +1,0 @@
-# DominikRzecki.github.io
