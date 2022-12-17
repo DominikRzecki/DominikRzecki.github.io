@@ -1,7 +1,6 @@
 .navbar-fixed-top {
 	position: sticky;
 	position: -webkit-sticky;
-	position: -moz-sticky;
 
 	top: 0;
 	z-index: 10;
@@ -54,25 +53,25 @@
 .grid-container {
 	display: grid;
 	grid-gap: 25px;
-	margin-top: 60;
-	padding: 25;
+	margin-top: 60px;
+	padding: 25px;
 }
 
 div.card {
 	position: relative;
 	float: center;
 	width: 75%;
-	min-width: 200;
-	min-height: 200;
+	min-width: 200px;
+	min-height: 200px;
 	box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
 	background-color: white;
 	border-radius: 7px;
-	margin-top: 10;
+	margin-top: 10px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
 	vertical-align: middle;
-	padding: 20;
+	padding: 20px;
 }
 
 div.container {
@@ -83,7 +82,7 @@ div.container {
 	vertical-align: middle;
 	-webkit-text-fill-color: transparent;
 	-moz-text-fill-color: transparent;
-	margin: 10;
+	margin: 10px;
 }
 
 div.title {
@@ -94,7 +93,7 @@ div.title {
 	vertical-align: top;
 	-webkit-text-fill-color: transparent;
 	-moz-text-fill-color: transparent;
-	margin: 10;
+	margin: 10px;
 	display: inline-block;
 }
 
@@ -108,7 +107,7 @@ div.text-green {
 	vertical-align: middle;
 	-webkit-text-fill-color: transparent;
 	-moz-text-fill-color: transparent;
-	margin: 10;
+	margin: 10px;
 	display: inline-block;
 }
 
@@ -123,8 +122,8 @@ form input {
 	width: 100%;
 	background: #000;
 	box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
-	padding: 15;
-	margin-top: 20;
+	padding: 15px;
+	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
 	align: center;	
