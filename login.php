@@ -26,7 +26,7 @@
 				<div class = "container">
 					<?php
 					if(session_id() == '') {
-						echo "<form class = 'card scale-on-hover', style = 'margin: 50;', action = 'authenticate.php' method = 'POST'>
+						echo "<form class = 'card scale-on-hover', style = 'margin: 50px;', action = 'authenticate.php' method = 'POST'>
 							<p>username:
 							<input type = 'text' name = 'username' size = 15 maxlength =  30>
 							<p>password:
